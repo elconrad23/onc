@@ -19,8 +19,8 @@ small {
 /* Header */
 .hero {
   background-color: #F4C430;
-  background-image: url("img/sascha-eremin-DNQ-M93tHmA-unsplash-3000x1000.jpg");
-  background-position: center;
+  background: linear-gradient(to top, #3204fdba, #9907facc), url("img/namclap.jpg") no-repeat top center;
+  background-position: top;
   background-size: cover;
 }
 
